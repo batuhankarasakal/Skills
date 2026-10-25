@@ -34,13 +34,13 @@ Read [AGENTS.md](AGENTS.md) for authoring conventions. Templates live outside `s
 Once the first skill is published:
 
 ```bash
-npx skills add batuhankarasakal/agent-skills
+npx skills add batuhankarasakal/Skills
 ```
 
 To install a particular skill:
 
 ```bash
-npx skills add batuhankarasakal/agent-skills --skill your-skill-name
+npx skills add batuhankarasakal/Skills --skill your-skill-name
 ```
 
 For Codex, invoke an installed skill with `$your-skill-name`. For Claude Code, use `/your-skill-name`.
@@ -50,7 +50,7 @@ For Codex, invoke an installed skill with `$your-skill-name`. For Claude Code, u
 The plugin manifest is prepared. Once skills are published:
 
 ```text
-/plugin marketplace add batuhankarasakal/agent-skills
+/plugin marketplace add batuhankarasakal/Skills
 /plugin install batu-skills@batu-skills
 ```
 
