@@ -1,0 +1,11 @@
+{
+  "name": "batu-skills",
+  "description": "Batuhan Karasakal's original agent skills for design and building software.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Batuhan Karasakal"
+  },
+  "homepage": "https://itsbatu.com/skills",
+  "repository": "https://github.com/batuhankarasakal/agent-skills",
+  "license": "MIT"
+}

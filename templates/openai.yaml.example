@@ -1,0 +1,3 @@
+interface:
+  display_name: "Your Skill Name"
+  short_description: "Replace with a concise skill summary"

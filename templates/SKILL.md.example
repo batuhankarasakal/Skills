@@ -1,0 +1,22 @@
+---
+name: your-skill-name
+description: Replace this with what the skill does and when it should be used.
+---
+
+# Your skill name
+
+Describe the concrete outcome this skill helps produce and the scope it owns.
+
+## Approach
+
+Write the decisions and actions that improve how the agent performs this task. Keep the instructions specific to this skill.
+
+## Constraints
+
+Record only the important boundaries or pitfalls for this task. Respect the user's existing choices, project conventions and authorization.
+
+## Verification
+
+Explain how to check the result and what evidence the agent should report.
+
+<!-- Remove these prompts before publishing. Add linked references only when needed. -->

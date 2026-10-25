@@ -1,0 +1,13 @@
+{
+  "name": "batu-skills",
+  "owner": {
+    "name": "Batuhan Karasakal"
+  },
+  "plugins": [
+    {
+      "name": "batu-skills",
+      "source": "./",
+      "description": "Batuhan Karasakal's original agent skills for design and building software."
+    }
+  ]
+}
